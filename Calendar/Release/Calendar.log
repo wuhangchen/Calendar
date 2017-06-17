@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Calendar.cpp
+  Calendar1.cpp
+Calendar1.cpp(481): warning C4244: “初始化”: 从“LONG”转换到“WORD”，可能丢失数据
+Calendar1.cpp(482): warning C4244: “初始化”: 从“LONG”转换到“WORD”，可能丢失数据
+  CalendarDlg.cpp
+  CalendarFrm.cpp
+  正在生成代码
+  All 369 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Calendar.vcxproj -> C:\Users\17145\Documents\Visual Studio 2017\Projects\Calendar\Release\Calendar.exe
